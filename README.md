@@ -2,12 +2,17 @@
 
 Update: 12/16/2017
 
-I am idiot, accidentally formatted the repo and falsely pushed files. Now updated the commit
-history as well.
+#############################################################################################
+
+I am idiot, accidentally swapped this repo with another one I worked on and the originl repo
+for 127 was gone, since I am lazy, I am just gonna HTTP wise upload the files here and update
+the commit comments. This should be the final edition.
+
+#############################################################################################
 
 =================================================================================
 
-Update: 12/13/2017
+Update: 12/05/2017
 
 #############################################################################################
 
