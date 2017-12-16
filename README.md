@@ -1,5 +1,12 @@
 # Sierra-Wireless-BC127-controller
 
+Update: 12/16/2017
+
+I am idiot, accidentally formatted the repo and falsely pushed files. Now updated the commit
+history as well.
+
+=================================================================================
+
 Update: 12/13/2017
 
 #############################################################################################
@@ -26,7 +33,44 @@ Also, I will add the previous release note here as well later.
 
 Update: 12/04/2017
 
-Now they are Sierra Wireless. Will consider to work on instructions with walkthroughs.
+Now they are Sierra Wireless. Will consider to work on instructions with 
+walkthroughs.
+
+=================================================================================
+
+Update: 11/23/2017
+
+BlueCreation stops to dispatch orders and will migrate support.
+
+Future is undecided.
+
+Again, I have to yell out that you need to check your hardware model.
+
+This code ONLY supports normal 127, not any EXT, APTX, HD variant or 118.
+
+=================================================================================
+
+Update: 07/31/2017
+
+Add more comments to void confusing terms over the update.
+
+=================================================================================
+
+Update: 07/28/2017
+
+Version being pushed out have some type issues, please update to latest version.
+
+Also, we added Jonathan Falco's BC127 dual mode. Welcome to talk to him through
+arduino forum.
+
+=================================================================================
+
+Update: 07/27/2017
+
+Tried to create this new github page, due to the fact that original account is 
+pulled and lost. Resolved by closing it and reopen new one.
+
+Test site is working or not then restore all files.
 
 =================================================================================
 
